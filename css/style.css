@@ -1,0 +1,26 @@
+#main {
+  width: 80%;
+  margin: 0 10%;
+  text-align: center;
+}
+
+#main div {
+  max-width: 200px;
+  margin: 10px auto;
+  border: 3px solid #000;
+  border-radius: 5px;
+  opacity: .7;
+}
+
+#main .highlighted {
+  background-color: #74b9ff;
+}
+
+#main .special-header h1 {
+  color: #636e72;
+}
+
+#main .important {
+  opacity: 1;
+}
+/*# sourceMappingURL=style.css.map */
